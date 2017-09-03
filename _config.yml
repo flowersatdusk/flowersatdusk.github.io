@@ -1,35 +1,37 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpetkramdown
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            
+title:            flowersatdusk
 tagline:          
 description:      
-url:              
-baseurl:          /
-
-url:              "https://flowersatdusk.github.io"
+url:              http://flowersatdusk.github.io
+baseurl:          
 
 author:
   name:           
-
+  url:            
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1.0
 
 github:
   repo:           https://github.com/flowersatdusk
 
-# Gems
-plugins: 	        [jekyll-paginate, jekyll-gist]
+# Plugins
+plugins:          [jekyll-paginate, jekyll-gist]
 
-# Disqus Comments
+# Disqus comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: flowersatdusk
+
+# Google analytics
+google_analytics: UA-105751783-1
