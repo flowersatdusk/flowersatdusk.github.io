@@ -5,12 +5,16 @@ layout: default
 <div class="post">
 
   <h2 class="post-title">{{ page.title }}</h2>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <span class="post-date">{{ page.date | date_to_string }}{% if page.comments %} • <a href="{{ page.url | absolute_url }}#disqus_thread">0 Comments</a>{% endif %}</span>
+
+
   {{ content }}
 
- {% if site.disqus.shortname %}
+{% if site.disqus.shortname %}
   {% include disqus_comments.html %}
 {% endif %}
+
 <p><a href="/index.html">Back to blog</a></p>
 </div>
 
