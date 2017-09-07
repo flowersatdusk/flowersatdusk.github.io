@@ -14,7 +14,9 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}{% if post.comments %} • <a href="{{ site.url }}{{ post.url }}#disqus_thread">0 Comments</a>{% endif %}</span>
 
-    {{ post.excerpt }}
+    {{ post.content | strip_html | truncatewords:75}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+            
   </div>
   {% endfor %}
 </div>
