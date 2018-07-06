@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Electroneum - Crossing the Chasm
@@ -7,12 +6,12 @@ tags: [links]
 comments: true
 ---
 
-I recently invested in the Electroneum ICO, and here is my rationale.
+[DRAFT] this was a draft post I planned to be paid for by Electroneum, but didn't end up publishing because I didn't like the project enough
 
-Electroneum, in short, is the mobile cryptocurrency that anyone with a smartphone can use. 
+Electroneum, in short, is the mobile cryptocurrency that anyone with a smartphone can use.
 
 
-There is a *very* hot new ICO on the block. Duncan Logan, the CEO and founder of Rocketspace, a start-up accelerator that had backed companies such as Uber and Spotify, had tweeted that this is the first ICO he will buy into. The founder is the CEO of a top marketing firm in the UK that works with Fortune 500 companies, and he has a team of about 20 engineers on this project. A thread on Bitcointalk posed the question, not of what people thinks or of *whether* to invest, but of *how much* to invest. 
+There is a *very* hot new ICO on the block. Duncan Logan, the CEO and founder of Rocketspace, a start-up accelerator that had backed companies such as Uber and Spotify, had tweeted that this is the first ICO he will buy into. The founder is the CEO of a top marketing firm in the UK that works with Fortune 500 companies, and he has a team of about 20 engineers on this project. A thread on Bitcointalk posed the question, not of what people thinks or of *whether* to invest, but of *how much* to invest.
 
 So I'm reviewing the merits of this project, as well as the risks. It sounds like some people who have invested in very successfull ICOs in the past are betting big on this project, but I'm going to put in just around four ethers, which to me is not a small amount, but not a very big amount either, and here is my complete reasoning. Full disclosure: I'm also going to submit this post to the bounty program.
 
@@ -21,14 +20,14 @@ So I'm reviewing the merits of this project, as well as the risks. It sounds lik
 Some of you may have heard of the "Technology Adoption Lifecycle":
 ![technology adoption lifecycle]({{ site.url }}/assets/images/Technology-Adoption-Lifecycle.png "technology adoption lifecycle")
 
-This is a model that describes the adoption of radically innovative products in five phases -- the early market consists of the innovators, and then of early adopters, and then slowly moves into mainstream adoption. In between early adoption and mainstream adoption is a so called "chasm", which some products cross and others don't. 
+This is a model that describes the adoption of radically innovative products in five phases -- the early market consists of the innovators, and then of early adopters, and then slowly moves into mainstream adoption. In between early adoption and mainstream adoption is a so called "chasm", which some products cross and others don't.
 
 I like this picture here which graphs the adoption lifecyle with expectation. (It comes from a nice <a href = "http://andrewoons.com/bitcoin/2014/07/30/how-to-get-bitcoin-from-the-early-adopters-to-the-early-majority.html">blog post</a> about how bitcoin has not reached early majority because it's not easy to use)
 ![lifecycle and expectation]({{ site.url }}/assets/images/lifecycle-and-expectation.png "lifecycle and expectation")
 
 I think we can safely say that cryptocurrencies are in the early adopters phase (and at peak hype) -- but has not reached mass adoption. (A <a href = "http://www.newsbtc.com/2017/05/07/three-million-cryptocurrency-users/">study by Cambridge University</a> found that there are only about three million active cryptocurrency users, which is only ~0.04% of the world's population.) Vitalk Buterin had said recently that there are two kinds of average person - the average person who has never heard of bitcoin, and the average person who has -- it's important to remember that the vast majority of the world still consists of the first type of average person. For crypto to the vast majority, it needs to:
 
-	 1. be accessible 
+	 1. be accessible
 	 2. be easy to use
 	 3. have great marketing
 
